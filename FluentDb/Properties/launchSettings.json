@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FluentDb": {
+      "commandName": "Project",
+      "commandLineArgs": "\"data source=.;initial catalog=ScheduleVault;Integrated Security=True;"
+    }
+  }
+}
